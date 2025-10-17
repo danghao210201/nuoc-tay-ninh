@@ -1,0 +1,818 @@
+{
+  "content": [
+    {
+      "num": 11,
+      "id": "68590fe585563a13ecf0f076",
+      "title": "mặt đường xuống cấp",
+      "code": "23062025-006",
+      "description": "đoạn đường phía trước cây xăng dầu (đối diện siêu thị coop smart bến lức) xuống cấp nghiêm trọng gây nguy hiểm cho người đi đường",
+      "createdDate": "2025-06-23T08:27:17.833+0000",
+      "dueDate": "2025-07-03T08:42:00.000+0000",
+      "status": 3,
+      "statusDescription": "Hoàn thành",
+      "takePlaceAt": {
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "fullAddress": "số 3 khu phố 6, thị trấn bến lức, bến lức, long an",
+        "place": [
+          {
+            "id": "5def47c5f47614018c127991",
+            "typeId": "5ee304423167922ac55bea03",
+            "name": "Thị trấn Bến Lức"
+          },
+          {
+            "id": "5def47c5f47614018c001803",
+            "typeId": "5ee304423167922ac55bea02",
+            "name": "Huyện Bến Lức"
+          },
+          {
+            "id": "5def47c5f47614018c000080",
+            "typeId": "5ee304423167922ac55bea01",
+            "name": "Long An"
+          }
+        ]
+      },
+      "thumbnailId": "68590fe5ffc9f4054103974f",
+      "receptionMethod": {
+        "id": "6875f999aa2b7760605d92b7",
+        "trans": [
+          {
+            "languageId": 228,
+            "name": "Ứng dụng Long An Số"
+          },
+          {
+            "languageId": 46,
+            "name": "Ứng dụng Long An Số"
+          }
+        ]
+      },
+      "receptionMethodDescription": "Ứng dụng Long An Số",
+      "file": [
+        {
+          "id": "68590fe5ffc9f4054103974f",
+          "name": "IMG_7355.jpeg",
+          "group": [1],
+          "updatedDate": "2025-06-23T15:27:17.659+0000"
+        },
+        {
+          "id": "68624f6dceeb497ae6e60815",
+          "name": "23062025-006.pdf",
+          "group": [3],
+          "updatedDate": "2025-06-30T08:48:44.672+0000"
+        }
+      ],
+      "interestUsers": [],
+      "interested": false,
+      "agency": {
+        "id": "6242b4b376de7d7142bf81cd",
+        "name": "Sở Xây dựng"
+      },
+      "tag": {
+        "id": "6757af1cafbe3f09cec11e62",
+        "parentId": "6757af0bafbe3f09cec11e61",
+        "name": "Hạ tầng giao thông"
+      }
+    },
+    {
+      "num": 12,
+      "id": "6856a87c85563a13ecf0f01e",
+      "title": "Dịch vụ hành chính công",
+      "code": "21062025-010",
+      "description": "Thông báo Hồ sơ đã được cấp biển số thành công từ ngày 11/06, nhưng đến nay vẫn không được nhận biển số.",
+      "createdDate": "2025-06-21T12:41:32.783+0000",
+      "dueDate": "2025-07-03T02:34:00.000+0000",
+      "status": 3,
+      "statusDescription": "Hoàn thành",
+      "typeRequest": "6856a87c85563a13ecf0f01d",
+      "takePlaceAt": {
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "fullAddress": "Ấp Bảy Mét",
+        "place": [
+          {
+            "id": "5def47c5f47614018c127847",
+            "typeId": "5ee304423167922ac55bea03",
+            "name": "Xã Kiến Bình"
+          },
+          {
+            "id": "5def47c5f47614018c001799",
+            "typeId": "5ee304423167922ac55bea02",
+            "name": "Huyện Tân Thạnh"
+          },
+          {
+            "id": "5def47c5f47614018c000080",
+            "typeId": "5ee304423167922ac55bea01",
+            "name": "Tỉnh Long An"
+          }
+        ]
+      },
+      "thumbnailId": "6856a706ffc9f40541039713",
+      "receptionMethod": {
+        "id": "6875f999aa2b7760605d92b7",
+        "trans": [
+          {
+            "languageId": 228,
+            "name": "Cổng thông tin 1022"
+          },
+          {
+            "languageId": 46,
+            "name": "Cổng thông tin 1022"
+          }
+        ]
+      },
+      "receptionMethodDescription": "Cổng thông tin 1022",
+      "file": [
+        {
+          "id": "6856a706ffc9f40541039713",
+          "name": "z6695698052732_b19e55781a7bff2df0762d41b1022b85.jpg",
+          "group": [1],
+          "updatedDate": "2025-06-21T12:41:32.781+0000"
+        },
+        {
+          "id": "6856a706ffc9f40541039715",
+          "name": "z6695698154653_279f5b107c8f24a38631fb3b62f2a4a4.jpg",
+          "group": [1],
+          "updatedDate": "2025-06-21T12:41:32.781+0000"
+        },
+        {
+          "id": "685a560cffc9f405410397bf",
+          "name": "nhận hs.jpg",
+          "group": [3],
+          "updatedDate": "2025-06-24T07:39:03.611+0000"
+        }
+      ],
+      "interestUsers": [],
+      "interested": false,
+      "agency": {
+        "id": "6242b4b476de7d7142bf81d9",
+        "name": "UBND huyện Tân Thạnh"
+      },
+      "tag": {
+        "id": "6757adddafbe3f09cec11e59",
+        "parentId": "6757ad37afbe3f09cec11e58",
+        "name": "Hành vi chậm trễ, gây phiền hà hoặc không thực hiện"
+      }
+    },
+    {
+      "num": 13,
+      "id": "6856642585563a13ecf0f00d",
+      "title": "Giao thông",
+      "code": "21062025-007",
+      "description": "-Kính thưa cơ quan chức năng huyện Đức Hoà\nĐầu đường xuống xã đức hoà đông đường Nguyễn Văn Dương giáp DT824,đơn vị thi công thảm nhựa không đủ chất lượng gây ứ động nước trước nhà chúng tôi đi ra vô dễ trơn trượt,bụi bậm,mất thẩm mỹ.",
+      "createdDate": "2025-06-21T07:49:57.752+0000",
+      "dueDate": "2025-07-03T00:00:00.000+0000",
+      "status": 3,
+      "statusDescription": "Hoàn thành",
+      "takePlaceAt": {
+        "latitude": 10.834022041668423,
+        "longitude": 106.46457313006954,
+        "fullAddress": "1 Đường Tỉnh 824, X. Đức Hòa Hạ, H. Đức Hòa, Long An, Việt Nam",
+        "place": [
+          {
+            "id": "5def47c5f47614018c127985",
+            "typeId": "5ee304423167922ac55bea03",
+            "name": "Xã Đức Hòa Hạ"
+          },
+          {
+            "id": "5def47c5f47614018c001802",
+            "typeId": "5ee304423167922ac55bea02",
+            "name": "Huyện Đức Hòa"
+          },
+          {
+            "id": "5def47c5f47614018c000080",
+            "typeId": "5ee304423167922ac55bea01",
+            "name": "Long An"
+          }
+        ]
+      },
+      "thumbnailId": "68566425ffc9f4054103970b",
+      "receptionMethod": {
+        "id": "6875f999aa2b7760605d92b7",
+        "trans": [
+          {
+            "languageId": 228,
+            "name": "Ứng dụng Long An Số"
+          },
+          {
+            "languageId": 46,
+            "name": "Ứng dụng Long An Số"
+          }
+        ]
+      },
+      "receptionMethodDescription": "Ứng dụng Long An Số",
+      "file": [
+        {
+          "id": "68566425ffc9f4054103970b",
+          "name": "IMG_2258.jpeg",
+          "group": [1],
+          "updatedDate": "2025-06-21T14:49:57.665+0000"
+        },
+        {
+          "id": "685a648bffc9f405410397c5",
+          "name": "21062025-007.pdf",
+          "group": [3],
+          "updatedDate": "2025-06-24T08:40:42.669+0000"
+        }
+      ],
+      "interestUsers": [],
+      "interested": false,
+      "agency": {
+        "id": "6242b4b376de7d7142bf81cd",
+        "name": "Sở Xây dựng"
+      },
+      "tag": {
+        "id": "6757af1cafbe3f09cec11e62",
+        "parentId": "6757af0bafbe3f09cec11e61",
+        "name": "Hạ tầng giao thông"
+      }
+    },
+    {
+      "num": 14,
+      "id": "68565f4285563a13ecf0f00b",
+      "title": "Hệ thống đèn giao thông lỗi",
+      "code": "21062025-006",
+      "description": "Hệ thống đèn giao thông tại khu vực ngã ba Bình cách bị lỗi nhảy 2 màu, hướng Hiệp Thạnh đi Vĩnh Công đèn lúc có lúc không, các hướng còn lại cũng lỗi đèn. Bị lỗi đèn đã mấy hôm rồi.",
+      "createdDate": "2025-06-21T07:29:06.678+0000",
+      "dueDate": "2025-07-03T03:02:00.000+0000",
+      "status": 3,
+      "statusDescription": "Hoàn thành",
+      "takePlaceAt": {
+        "latitude": 10.460584130815418,
+        "longitude": 106.45195376060424,
+        "fullAddress": "Hiệp Thạnh, Châu Thành, Long An, Việt Nam",
+        "place": [
+          {
+            "id": "5def47c5f47614018c128228",
+            "typeId": "5ee304423167922ac55bea03",
+            "name": "Xã Hiệp Thạnh"
+          },
+          {
+            "id": "5def47c5f47614018c001808",
+            "typeId": "5ee304423167922ac55bea02",
+            "name": "Huyện Châu Thành"
+          },
+          {
+            "id": "5def47c5f47614018c000080",
+            "typeId": "5ee304423167922ac55bea01",
+            "name": "Tỉnh Long An"
+          }
+        ]
+      },
+      "thumbnailId": "68565f3fffc9f40541039709",
+      "receptionMethod": {
+        "id": "6875f999aa2b7760605d92b7",
+        "trans": [
+          {
+            "languageId": 228,
+            "name": "Ứng dụng Long An Số"
+          },
+          {
+            "languageId": 46,
+            "name": "Ứng dụng Long An Số"
+          }
+        ]
+      },
+      "receptionMethodDescription": "Ứng dụng Long An Số",
+      "file": [
+        {
+          "id": "68565f3fffc9f40541039709",
+          "name": "IMG20250618155817.jpg",
+          "group": [1],
+          "updatedDate": "2025-06-21T14:29:05.646+0000"
+        },
+        {
+          "id": "685a1687ffc9f405410397ab",
+          "name": "731_KTHT-KTHT_23-06-2025_Vv tra loi den tin hieu giao thong Nga ba Binh Cach bi loi.signed.pdf",
+          "group": [3],
+          "updatedDate": "2025-06-24T03:07:51.687+0000"
+        }
+      ],
+      "interestUsers": [],
+      "interested": false,
+      "agency": {
+        "id": "63a907a26836db776758803a",
+        "name": "Phòng Kinh tế - Hạ tầng - Châu Thành"
+      },
+      "tag": {
+        "id": "6757af1cafbe3f09cec11e62",
+        "parentId": "6757af0bafbe3f09cec11e61",
+        "name": "Hạ tầng giao thông"
+      }
+    },
+    {
+      "num": 15,
+      "id": "6856257785563a13ecf0eff5",
+      "title": "An ninh trật tự, an toàn xã hội",
+      "code": "21062025-002",
+      "description": "Kính gửi UBND huyện Đức Hoà đã gửi phản ánh xử lý tại văn bản số 10536/UBND-PAKN, tuy nhiên trên thực tế thì chỉ có 1 đêm là đèn đường có hoạt động chiếu sáng cho bà con dễ dàng đi lại, sau đêm đó đèn đường không còn sáng nữa. Để khách quan hơn UBND huyện có thể trích xuất camera trên đoạn đường này để xác thực làm rõ tình trạng trên. Xin chân thành cảm ơn.",
+      "createdDate": "2025-06-21T03:22:31.021+0000",
+      "dueDate": "2025-07-03T00:00:00.000+0000",
+      "status": 3,
+      "statusDescription": "Hoàn thành",
+      "typeRequest": "6856257785563a13ecf0eff4",
+      "takePlaceAt": {
+        "latitude": 10.826333101244927,
+        "longitude": 106.45736826801487,
+        "fullAddress": "Nguyễn Văn Dương, 82700, Đức Hòa, Đức Hòa, Long An, Vietnam",
+        "place": [
+          {
+            "id": "5def47c5f47614018c127937",
+            "typeId": "5ee304423167922ac55bea03",
+            "name": "Thị trấn Đức Hòa"
+          },
+          {
+            "id": "5def47c5f47614018c001802",
+            "typeId": "5ee304423167922ac55bea02",
+            "name": "Huyện Đức Hòa"
+          },
+          {
+            "id": "5def47c5f47614018c000080",
+            "typeId": "5ee304423167922ac55bea01",
+            "name": "Tỉnh Long An"
+          }
+        ]
+      },
+      "thumbnailId": "68562556ffc9f405410396ff",
+      "receptionMethod": {
+        "id": "6875f999aa2b7760605d92b7",
+        "trans": [
+          {
+            "languageId": 228,
+            "name": "Cổng thông tin 1022"
+          },
+          {
+            "languageId": 46,
+            "name": "Cổng thông tin 1022"
+          }
+        ]
+      },
+      "receptionMethodDescription": "Cổng thông tin 1022",
+      "file": [
+        {
+          "id": "68562556ffc9f405410396ff",
+          "name": "1.jpg",
+          "group": [1],
+          "updatedDate": "2025-06-21T03:22:31.018+0000"
+        },
+        {
+          "id": "685e91a4ceeb497ae6e607d5",
+          "name": "11269_UBND-PAKN_25-06-2025_99-PAKN 21062025-002 trả lời Chiếu sáng đường TTĐH.signed.pdf",
+          "group": [3],
+          "updatedDate": "2025-06-27T12:42:09.866+0000"
+        },
+        {
+          "id": "685e91a8ceeb497ae6e607d7",
+          "name": "002.3.jpg",
+          "group": [3],
+          "updatedDate": "2025-06-27T12:42:14.140+0000"
+        }
+      ],
+      "interestUsers": [],
+      "interested": false,
+      "agency": {
+        "id": "6242b4b476de7d7142bf81d4",
+        "name": "UBND huyện Đức Hòa"
+      },
+      "tag": {
+        "id": "6757af5cafbe3f09cec11e69",
+        "parentId": "6757af40afbe3f09cec11e67",
+        "name": "An ninh trật tự , an toàn xã hội"
+      }
+    },
+    {
+      "num": 16,
+      "id": "68557a2f85563a13ecf0efe6",
+      "title": "An ninh trật tự, an toàn xã hội",
+      "code": "20062025-009",
+      "description": "Nhà tôi cách bà Kim phụng 10m, bà mở hát karaoke từ 18h đến 22h. 1 ngày đi làm về mong được yên tĩnh nghỉ ngơi, hát ồn ào gây ảnh hưởng đến ngủ nghỉ của gia đình tôi. Tôi đã gởi đơn lên UBnd xã Thanh phú Long nhiều lần nhưng không được giải quyết. Tôi mong được giải quyết dứt điểm tiếng ồn gây ảnh hưởng đến tinh thần của tôi và gia đình quá.",
+      "createdDate": "2025-06-20T15:11:42.991+0000",
+      "dueDate": "2025-07-03T00:00:00.000+0000",
+      "status": 3,
+      "statusDescription": "Hoàn thành",
+      "typeRequest": "68557a2e85563a13ecf0efe5",
+      "takePlaceAt": {
+        "latitude": 10.66667,
+        "longitude": 106.16667,
+        "fullAddress": "Long An, Việt Nam",
+        "place": [
+          {
+            "id": "5def47c5f47614018c128234",
+            "typeId": "5ee304423167922ac55bea03",
+            "name": "Xã Thanh Phú Long"
+          },
+          {
+            "id": "5def47c5f47614018c001808",
+            "typeId": "5ee304423167922ac55bea02",
+            "name": "Huyện Châu Thành"
+          },
+          {
+            "id": "5def47c5f47614018c000080",
+            "typeId": "5ee304423167922ac55bea01",
+            "name": "Tỉnh Long An"
+          }
+        ]
+      },
+      "thumbnailId": "68557864ffc9f405410396ef",
+      "receptionMethod": {
+        "id": "6875f999aa2b7760605d92b7",
+        "trans": [
+          {
+            "languageId": 228,
+            "name": "Cổng thông tin 1022"
+          },
+          {
+            "languageId": 46,
+            "name": "Cổng thông tin 1022"
+          }
+        ]
+      },
+      "receptionMethodDescription": "Cổng thông tin 1022",
+      "file": [
+        {
+          "id": "68557864ffc9f405410396ef",
+          "name": "IMG_1750431769166_1750431788582.jpg",
+          "group": [1],
+          "updatedDate": "2025-06-20T15:11:42.988+0000"
+        },
+        {
+          "id": "685e5e19ceeb497ae6e607cb",
+          "name": "764_UBND-UBND_27-06-2025_Vv trả lời PAKN của công dân (mã PAKN 20062025-009).signed.pdf",
+          "group": [3],
+          "updatedDate": "2025-06-27T09:02:16.408+0000"
+        },
+        {
+          "id": "685e5e25ceeb497ae6e607cd",
+          "name": "BẢNG CAM KẾT ĐIỂM HÁT VỚI NHAU KIM PHỤNG.pdf",
+          "group": [3],
+          "updatedDate": "2025-06-27T09:02:28.339+0000"
+        }
+      ],
+      "interestUsers": [],
+      "interested": false,
+      "agency": {
+        "id": "63a909246836db7767588047",
+        "name": "UBND xã Thanh Phú Long"
+      },
+      "tag": {
+        "id": "6757af5cafbe3f09cec11e69",
+        "parentId": "6757af40afbe3f09cec11e67",
+        "name": "An ninh trật tự , an toàn xã hội"
+      }
+    },
+    {
+      "num": 17,
+      "id": "685563cb85563a13ecf0efe4",
+      "title": "Phản ánh khu vực thường xảy ra tai nạn giao thông ở Bến Lức",
+      "code": "20062025-008",
+      "description": "Kính gửi cơ quan chức năng,\n\nTôi xin phép được phản ánh về tình trạng mất an toàn giao thông tại khu vực nút giao từ Trạm thu phí Bến Lức ra và Đường tỉnh 830, thuộc xã An Thạnh, huyện Bến Lức, tỉnh Long An. Đây là khu vực có lưu lượng xe lớn, đặc biệt là xe tải và container thường xuyên di chuyển từ trong và ngoài trạm với tốc độ cao, không nhường đường cho xe đang đi thẳng trên tuyến. Việc thiếu đèn tín hiệu điều khiển giao thông khiến các luồng xe dễ xảy ra xung đột.\n\nThực tế tại đây đã xảy ra nhiều vụ tai nạn, gần nhất là vào chiều ngày 20 tháng 6 năm 2025, cũng do tình trạng tương tự. Do đó, tôi kính mong cơ quan chức năng sớm xem xét và có biện pháp khắc phục – cụ thể là lắp đặt đèn tín hiệu giao thông tại nút giao này – để đảm bảo an toàn cho các phương tiện lưu thông.\n\nTrân trọng cảm ơn.\n",
+      "createdDate": "2025-06-20T13:36:10.936+0000",
+      "dueDate": "2025-07-03T00:00:00.000+0000",
+      "status": 3,
+      "statusDescription": "Hoàn thành",
+      "takePlaceAt": {
+        "latitude": 10.655477039059784,
+        "longitude": 106.46851038637331,
+        "fullAddress": "Đường Tỉnh 830, X. An Thạnh, H. Bến Lức, Long An, Việt Nam",
+        "place": [
+          {
+            "id": "5def47c5f47614018c128012",
+            "typeId": "5ee304423167922ac55bea03",
+            "name": "Xã An Thạnh"
+          },
+          {
+            "id": "5def47c5f47614018c001803",
+            "typeId": "5ee304423167922ac55bea02",
+            "name": "Huyện Bến Lức"
+          },
+          {
+            "id": "5def47c5f47614018c000080",
+            "typeId": "5ee304423167922ac55bea01",
+            "name": "Tỉnh Long An"
+          }
+        ]
+      },
+      "thumbnailId": "685563caffc9f405410396e5",
+      "receptionMethod": {
+        "id": "6875f999aa2b7760605d92b7",
+        "trans": [
+          {
+            "languageId": 228,
+            "name": "Ứng dụng Long An Số"
+          },
+          {
+            "languageId": 46,
+            "name": "Ứng dụng Long An Số"
+          }
+        ]
+      },
+      "receptionMethodDescription": "Ứng dụng Long An Số",
+      "file": [
+        {
+          "id": "685563caffc9f405410396e5",
+          "name": "IMG_3402.jpeg",
+          "group": [1],
+          "updatedDate": "2025-06-20T20:36:10.789+0000"
+        },
+        {
+          "id": "685563caffc9f405410396e7",
+          "name": "IMG_3403.jpeg",
+          "group": [1],
+          "updatedDate": "2025-06-20T20:36:10.789+0000"
+        },
+        {
+          "id": "685563caffc9f405410396e9",
+          "name": "IMG_3404.jpeg",
+          "group": [1],
+          "updatedDate": "2025-06-20T20:36:10.789+0000"
+        },
+        {
+          "id": "685563caffc9f405410396eb",
+          "name": "IMG_3405.jpeg",
+          "group": [1],
+          "updatedDate": "2025-06-20T20:36:10.789+0000"
+        },
+        {
+          "id": "685a642fffc9f405410397c3",
+          "name": "20062025-008.pdf",
+          "group": [3],
+          "updatedDate": "2025-06-24T08:39:10.847+0000"
+        }
+      ],
+      "interestUsers": [],
+      "interested": false,
+      "agency": {
+        "id": "6242b4b376de7d7142bf81cd",
+        "name": "Sở Xây dựng"
+      },
+      "tag": {
+        "id": "6757af1cafbe3f09cec11e62",
+        "parentId": "6757af0bafbe3f09cec11e61",
+        "name": "Hạ tầng giao thông"
+      }
+    },
+    {
+      "num": 18,
+      "id": "6854ebad85563a13ecf0efc8",
+      "title": "Dịch vụ hành chính công",
+      "code": "20062025-006",
+      "description": "Tôi có nộp hồ sơ tại trang dichvuconglongan mã Hồ sơ h39.22-250618-5458 vào ngày 18/6 nhưng đến nay chưa được giải quyết ",
+      "createdDate": "2025-06-20T05:03:41.746+0000",
+      "dueDate": "2025-07-02T06:43:00.000+0000",
+      "status": 3,
+      "statusDescription": "Hoàn thành",
+      "typeRequest": "6854ebad85563a13ecf0efc7",
+      "takePlaceAt": {
+        "latitude": 10.66667,
+        "longitude": 106.16667,
+        "fullAddress": "Long An, Việt Nam",
+        "place": [
+          {
+            "id": "5def47c5f47614018c128177",
+            "typeId": "5ee304423167922ac55bea03",
+            "name": "Xã Mỹ Lộc"
+          },
+          {
+            "id": "5def47c5f47614018c001807",
+            "typeId": "5ee304423167922ac55bea02",
+            "name": "Huyện Cần Giuộc"
+          },
+          {
+            "id": "5def47c5f47614018c000080",
+            "typeId": "5ee304423167922ac55bea01",
+            "name": "Tỉnh Long An"
+          }
+        ]
+      },
+      "thumbnailId": "6854eb8effc9f405410396db",
+      "receptionMethod": {
+        "id": "6875f999aa2b7760605d92b7",
+        "trans": [
+          {
+            "languageId": 228,
+            "name": "Cổng thông tin 1022"
+          },
+          {
+            "languageId": 46,
+            "name": "Cổng thông tin 1022"
+          }
+        ]
+      },
+      "receptionMethodDescription": "Cổng thông tin 1022",
+      "file": [
+        {
+          "id": "6854eb8effc9f405410396db",
+          "name": "IMG_1445.PNG",
+          "group": [1],
+          "updatedDate": "2025-06-20T05:03:41.744+0000"
+        },
+        {
+          "id": "68591c6effc9f40541039757",
+          "name": "20250623152145_YabYmv.pdf",
+          "group": [3],
+          "updatedDate": "2025-06-23T09:20:45.718+0000"
+        }
+      ],
+      "interestUsers": [],
+      "interested": false,
+      "agency": {
+        "id": "6242b4b476de7d7142bf81d2",
+        "name": "UBND huyện Cần Giuộc"
+      },
+      "tag": {
+        "id": "6757adddafbe3f09cec11e59",
+        "parentId": "6757ad37afbe3f09cec11e58",
+        "name": "Hành vi chậm trễ, gây phiền hà hoặc không thực hiện"
+      }
+    },
+    {
+      "num": 19,
+      "id": "6854603785563a13ecf0efa5",
+      "title": "Môi trường, khoáng sản và tài nguyên nước",
+      "code": "20062025-001",
+      "description": "Công ty nhựa Phương Nam phát ra tiếng ồn từ 2 công ty, lúc trước đã có người phản ảnh và đã lên báo yêu cầu Công ty Phương Nam ngưng hoạt động cho tới nay vẫn kh có dấu hiệu ngưng hoạt động và mùi hôi từ nhựa do quá trình sản xuất liên tục cả ngày lẫn đêm phát ra mùi hôi khó chịu, bụi đường do xe tải ra vào kính thưa cơ quan giải quyết khắc phục hoàn toàn, và đề suất công ty di dời đi chổ khác cám ơn cơ quan",
+      "createdDate": "2025-06-19T19:08:39.269+0000",
+      "dueDate": "2025-07-02T00:44:00.000+0000",
+      "status": 3,
+      "statusDescription": "Hoàn thành",
+      "typeRequest": "6854603785563a13ecf0efa4",
+      "takePlaceAt": {
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "fullAddress": "RFMF+P9W, Đức Hòa Đông, Đức Hòa, Long An",
+        "place": [
+          {
+            "id": "5def47c5f47614018c127982",
+            "typeId": "5ee304423167922ac55bea03",
+            "name": "Xã Đức Hòa Đông"
+          },
+          {
+            "id": "5def47c5f47614018c001802",
+            "typeId": "5ee304423167922ac55bea02",
+            "name": "Huyện Đức Hòa"
+          },
+          {
+            "id": "5def47c5f47614018c000080",
+            "typeId": "5ee304423167922ac55bea01",
+            "name": "Tỉnh Long An"
+          }
+        ]
+      },
+      "thumbnailId": "68546024ffc9f405410396c1",
+      "receptionMethod": {
+        "id": "6875f999aa2b7760605d92b7",
+        "trans": [
+          {
+            "languageId": 228,
+            "name": "Cổng thông tin 1022"
+          },
+          {
+            "languageId": 46,
+            "name": "Cổng thông tin 1022"
+          }
+        ]
+      },
+      "receptionMethodDescription": "Cổng thông tin 1022",
+      "file": [
+        {
+          "id": "68546024ffc9f405410396c1",
+          "name": "IMG_9282.jpeg",
+          "group": [1],
+          "updatedDate": "2025-06-19T19:08:39.267+0000"
+        },
+        {
+          "id": "68546024ffc9f405410396bd",
+          "name": "IMG_9288.jpeg",
+          "group": [1],
+          "updatedDate": "2025-06-19T19:08:39.267+0000"
+        },
+        {
+          "id": "68546024ffc9f405410396bb",
+          "name": "IMG_9287.jpeg",
+          "group": [1],
+          "updatedDate": "2025-06-19T19:08:39.267+0000"
+        },
+        {
+          "id": "68546024ffc9f405410396bf",
+          "name": "IMG_9286.jpeg",
+          "group": [1],
+          "updatedDate": "2025-06-19T19:08:39.267+0000"
+        },
+        {
+          "id": "6864f726ceeb497ae6e608e9",
+          "name": "12143_UBND-PAKN_29-06-2025_102-PAKN 20062025-001 trả lời ô nhiễm môi trường.signed.pdf",
+          "group": [3],
+          "updatedDate": "2025-07-02T09:08:52.609+0000"
+        }
+      ],
+      "interestUsers": [],
+      "interested": false,
+      "agency": {
+        "id": "6242b4b476de7d7142bf81d4",
+        "name": "UBND huyện Đức Hòa"
+      },
+      "tag": {
+        "id": "6757af88afbe3f09cec11e6b",
+        "parentId": "6757af74afbe3f09cec11e6a",
+        "name": "Ô nhiễm bụi, không khí"
+      }
+    },
+    {
+      "num": 20,
+      "id": "6853f4ea85563a13ecf0efa2",
+      "title": "trễ thuế",
+      "code": "19062025-010",
+      "description": "tôi nộp hồ sơ ngày 16.5.2025 hẹn trả ngày 30.5.2025 nhưng đến nay vẫn chưa có thuế mong chi cục thuế xem xét giùm tôi",
+      "createdDate": "2025-06-19T11:30:50.047+0000",
+      "dueDate": "2025-07-02T00:50:00.000+0000",
+      "status": 3,
+      "statusDescription": "Hoàn thành",
+      "takePlaceAt": {
+        "latitude": 10.595028704417336,
+        "longitude": 106.63216930103208,
+        "fullAddress": "X. Phước Lâm, H. Cần Giuộc, Long An, Việt Nam",
+        "place": [
+          {
+            "id": "5def47c5f47614018c128183",
+            "typeId": "5ee304423167922ac55bea03",
+            "name": "Xã Phước Lâm"
+          },
+          {
+            "id": "5def47c5f47614018c001807",
+            "typeId": "5ee304423167922ac55bea02",
+            "name": "Huyện Cần Giuộc"
+          },
+          {
+            "id": "5def47c5f47614018c000080",
+            "typeId": "5ee304423167922ac55bea01",
+            "name": "Long An"
+          }
+        ]
+      },
+      "thumbnailId": "6853f4e9ffc9f405410396b9",
+      "receptionMethod": {
+        "id": "6875f999aa2b7760605d92b7",
+        "trans": [
+          {
+            "languageId": 228,
+            "name": "Ứng dụng Long An Số"
+          },
+          {
+            "languageId": 46,
+            "name": "Ứng dụng Long An Số"
+          }
+        ]
+      },
+      "receptionMethodDescription": "Ứng dụng Long An Số",
+      "file": [
+        {
+          "id": "6853f4e9ffc9f405410396b9",
+          "name": "IMG_1600.jpeg",
+          "group": [1],
+          "updatedDate": "2025-06-19T18:30:49.888+0000"
+        },
+        {
+          "id": "68591c34ffc9f40541039755",
+          "name": "19062025.010.pdf",
+          "group": [3],
+          "updatedDate": "2025-06-23T09:19:48.195+0000"
+        }
+      ],
+      "interestUsers": [],
+      "interested": false,
+      "agency": {
+        "id": "6242b4b476de7d7142bf81d2",
+        "name": "UBND huyện Cần Giuộc"
+      },
+      "tag": {
+        "id": "6757adddafbe3f09cec11e59",
+        "parentId": "6757ad37afbe3f09cec11e58",
+        "name": "Hành vi chậm trễ, gây phiền hà hoặc không thực hiện"
+      }
+    }
+  ],
+  "pageable": {
+    "sort": {
+      "sorted": false,
+      "unsorted": true,
+      "empty": true
+    },
+    "offset": 10,
+    "pageNumber": 1,
+    "pageSize": 10,
+    "paged": true,
+    "unpaged": false
+  },
+  "totalPages": 389,
+  "totalElements": 3885,
+  "last": false,
+  "size": 10,
+  "number": 1,
+  "sort": {
+    "sorted": false,
+    "unsorted": true,
+    "empty": true
+  },
+  "numberOfElements": 10,
+  "first": false,
+  "empty": false
+}

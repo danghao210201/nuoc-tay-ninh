@@ -1,0 +1,10 @@
+{
+  "baseURL": "https://smart-api.tayninh.gov.vn",
+  "endpoints": {
+    "searchPublicPetitions": "/api/sso/search-public-petitions",
+    "petitionDetail": "/api/sso/petition-detail",
+    "fileDownload": "/api/sso/file"
+  },
+  "timeout": 10000,
+  "retryAttempts": 3
+}

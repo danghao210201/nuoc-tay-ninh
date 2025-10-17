@@ -1,0 +1,146 @@
+{
+  "title": "Không nhận được thông báo về thuế ( Trễ thuế )",
+  "code": "26062025-011",
+  "description": "⸻\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\n\nĐƠN KIẾN NGHỊ GIẢI QUYẾT HỒ SƠ THUẾ TRƯỚC NGÀY 01/7/2025\n\nKính gửi: Chi cục Thuế liên huyện Cần Giuộc – Cần Đước\n\nTôi tên là: [Nguyễn Thị Minh Cúc]\nSố điện thoại : 0938772709\nLà người nộp hồ sơ chuyển nhượng quyền sử dụng đất tại Trung tâm Hành chính công huyện Cần Giuộc.\n\nNội dung hồ sơ: Chuyển nhượng QSDĐ thửa đất tại ấp Phước Thới, xã Phước Lại, huyện Cần Giuộc, tỉnh Long An\nMã số hồ sơ: H39.22-250528-5372 \nNộp ngày : 28/05/2025\nGiấy hẹn trả kết quả ngay : 11/06/2025\n\nHiện tại, qua tra cứu hệ thống và làm việc với Trung tâm Hành chính công, tôi được biết hồ sơ đã chuyển sang Chi cục Thuế từ 09/6/2025, nhưng đến nay vẫn chưa được tính thuế, gây ảnh hưởng đến việc hoàn tất thủ tục chuyển nhượng và có nguy cơ phát sinh bất lợi sau ngày 01/7/2025 – thời điểm Luật Đất đai mới có hiệu lực.\n\nVì vậy, tôi kính đề nghị Chi cục Thuế xem xét, đẩy nhanh quá trình xử lý và phát hành thông báo thuế trước ngày 01/7/2025, đảm bảo quyền lợi chính đáng của người dân.\n\nKính mong quý cơ quan hỗ trợ, giải quyết trong thời gian sớm nhất.\n\nXin chân thành cảm ơn!",
+  "status": 3,
+  "statusDescription": "Hoàn thành",
+  "tag": {
+    "id": "6757adddafbe3f09cec11e59",
+    "parentId": "6757ad37afbe3f09cec11e58",
+    "name": "Hành vi chậm trễ, gây phiền hà hoặc không thực hiện"
+  },
+  "takePlaceOn": "2025-06-26T12:30:25.239+0000",
+  "receiptDate": "2025-06-27T01:31:12.111+0000",
+  "createdDate": "2025-06-26T12:30:25.301+0000",
+  "dueDate": "2025-07-09T01:31:00.000+0000",
+  "agency": {
+    "id": "6242b4b476de7d7142bf81d2",
+    "name": "UBND huyện Cần Giuộc"
+  },
+  "receptionMethod": {
+    "id": "0004891c4e1bd312a6f00005",
+    "trans": [
+      {
+        "languageId": 228,
+        "name": "Mạng xã hội"
+      },
+      {
+        "languageId": 46,
+        "name": "Mạng xã hội"
+      }
+    ]
+  },
+  "receptionMethodDescription": "Mạng xã hội",
+  "takePlaceAt": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "fullAddress": "Long An , Việt Nam",
+    "place": [
+      {
+        "id": "5def47c5f47614018c128159",
+        "typeId": "5ee304423167922ac55bea03",
+        "name": "Thị trấn Cần Giuộc"
+      },
+      {
+        "id": "5def47c5f47614018c001807",
+        "typeId": "5ee304423167922ac55bea02",
+        "name": "Huyện Cần Giuộc"
+      },
+      {
+        "id": "5def47c5f47614018c000080",
+        "typeId": "5ee304423167922ac55bea01",
+        "name": "Tỉnh Long An"
+      }
+    ]
+  },
+  "reporterLocation": {
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  "reporter": {
+    "fullname": "Nguyễn thị minh cúc"
+  },
+  "file": [
+    {
+      "id": "685d3d51ceeb497ae6e60799",
+      "name": "IMG_8991.jpeg",
+      "group": [1],
+      "updatedDate": "2025-06-26T12:30:25.292+0000"
+    },
+    {
+      "id": "686278d8ceeb497ae6e6081b",
+      "name": "số 3096.pdf",
+      "group": [3],
+      "updatedDate": "2025-06-30T11:45:29.122+0000"
+    }
+  ],
+  "thumbnailId": "685d3d51ceeb497ae6e60799",
+  "isPublic": "true",
+  "isAnonymous": "false",
+  "requiredSecret": "false",
+  "processInstanceId": "6770e61b-52f6-11f0-b4a4-5ee1be318957",
+  "reaction": {
+    "satisfied": 0,
+    "normal": 0,
+    "unsatisfied": 0,
+    "verySatisfied": 0,
+    "veryUnsatisfied": 0
+  },
+  "processDefinition": {
+    "id": "Process_M5IrCMxPd:136:281bd404-b319-11ed-ae09-f20488df2122",
+    "dynamicVariable": {
+      "listAgency": [],
+      "acceptMultipleResults": false
+    }
+  },
+  "shared": [],
+  "claimStatus": 0,
+  "viewOnly": false,
+  "progress": 0,
+  "canReassign": false,
+  "spam": 0,
+  "interestUsers": [],
+  "interested": false,
+  "result": {
+    "content": "Nội dung phản ánh của công dân được Chi nhánh Văn phòng Đăng ký đất đai Cần Giuộc trả lời tại văn bản số 3096/CN.VPĐKĐĐ ngày 30/6/2025 kèm theo./.",
+    "date": "2025-07-06T23:59:48.083+0000",
+    "agency": {
+      "id": "6241390e76de7d7142bf81a3",
+      "name": "Trung tâm điều hành 1022"
+    },
+    "isPublic": true,
+    "approved": true,
+    "sendSms": false,
+    "done": false,
+    "ubmttqResult": false
+  },
+  "resultArray": [
+    {
+      "content": "Nội dung phản ánh của công dân được Chi nhánh Văn phòng Đăng ký đất đai Cần Giuộc trả lời tại văn bản số 3096/CN.VPĐKĐĐ ngày 30/6/2025 kèm theo./.",
+      "date": "2025-06-30T11:45:33.022+0000",
+      "agency": {
+        "id": "6242b4b476de7d7142bf81d2",
+        "code": "H39.22",
+        "name": "UBND huyện Cần Giuộc"
+      },
+      "isPublic": true,
+      "approved": true,
+      "sendSms": false,
+      "done": false,
+      "ubmttqResult": false
+    },
+    {
+      "content": "Nội dung phản ánh của công dân được Chi nhánh Văn phòng Đăng ký đất đai Cần Giuộc trả lời tại văn bản số 3096/CN.VPĐKĐĐ ngày 30/6/2025 kèm theo./.",
+      "date": "2025-07-06T23:59:48.083+0000",
+      "agency": {
+        "id": "6241390e76de7d7142bf81a3",
+        "name": "Trung tâm điều hành 1022"
+      },
+      "isPublic": true,
+      "approved": true,
+      "sendSms": false,
+      "done": false,
+      "ubmttqResult": false
+    }
+  ]
+}

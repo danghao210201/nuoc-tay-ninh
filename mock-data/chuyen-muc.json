@@ -1,0 +1,94 @@
+{
+  "content": [
+    {
+      "id": "6757aeb5afbe3f09cec11e5c",
+      "code": null,
+      "integratedCode": null,
+      "primaryColor": null,
+      "iconId": "6256990176b1cd2103bdf5de",
+      "order": 1,
+      "status": 1,
+      "parentId": "6757ae9aafbe3f09cec11e5b",
+      "createdDate": "2024-12-10T03:00:05.523+0000",
+      "name": "Chiếu sáng",
+      "description": null
+    },
+    {
+      "id": "6757aec5afbe3f09cec11e5d",
+      "code": null,
+      "integratedCode": null,
+      "primaryColor": null,
+      "iconId": "6256956276b1cd2103bdf5c4",
+      "order": 2,
+      "status": 1,
+      "parentId": "6757ae9aafbe3f09cec11e5b",
+      "createdDate": "2024-12-10T03:00:21.410+0000",
+      "name": "Cây xanh",
+      "description": null
+    },
+    {
+      "id": "6757aed6afbe3f09cec11e5e",
+      "code": null,
+      "integratedCode": null,
+      "primaryColor": null,
+      "iconId": "6256f41b2c393b08429a83cd",
+      "order": 3,
+      "status": 1,
+      "parentId": "6757ae9aafbe3f09cec11e5b",
+      "createdDate": "2024-12-10T03:00:38.842+0000",
+      "name": "Cấp thoát nước",
+      "description": null
+    },
+    {
+      "id": "6757aeedafbe3f09cec11e5f",
+      "code": null,
+      "integratedCode": null,
+      "primaryColor": null,
+      "iconId": "67a57a2379e9bd2e37c829a7",
+      "order": 4,
+      "status": 1,
+      "parentId": "6757ae9aafbe3f09cec11e5b",
+      "createdDate": "2024-12-10T03:01:01.298+0000",
+      "name": "Viễn thông",
+      "description": null
+    },
+    {
+      "id": "6757aefcafbe3f09cec11e60",
+      "code": null,
+      "integratedCode": null,
+      "primaryColor": null,
+      "iconId": "62567bda76b1cd2103bdf59e",
+      "order": 5,
+      "status": 1,
+      "parentId": "6757ae9aafbe3f09cec11e5b",
+      "createdDate": "2024-12-10T03:01:16.701+0000",
+      "name": "Điện lực",
+      "description": null
+    }
+  ],
+  "pageable": {
+    "sort": {
+      "sorted": true,
+      "unsorted": false,
+      "empty": false
+    },
+    "offset": 0,
+    "pageNumber": 0,
+    "pageSize": 15,
+    "paged": true,
+    "unpaged": false
+  },
+  "last": true,
+  "totalPages": 1,
+  "totalElements": 5,
+  "size": 15,
+  "number": 0,
+  "sort": {
+    "sorted": true,
+    "unsorted": false,
+    "empty": false
+  },
+  "numberOfElements": 5,
+  "first": true,
+  "empty": false
+}

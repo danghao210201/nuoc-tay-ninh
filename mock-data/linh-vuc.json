@@ -1,0 +1,94 @@
+{
+  "content": [
+    {
+      "id": "6757ad37afbe3f09cec11e58",
+      "code": null,
+      "integratedCode": null,
+      "primaryColor": null,
+      "iconId": "6371ea7a96b2c12585ef524d",
+      "order": 1,
+      "status": 1,
+      "parentId": null,
+      "createdDate": "2024-12-10T02:53:43.184+0000",
+      "name": "Dịch vụ hành chính công",
+      "description": null
+    },
+    {
+      "id": "6757ae9aafbe3f09cec11e5b",
+      "code": null,
+      "integratedCode": null,
+      "primaryColor": null,
+      "iconId": "67a57ee079e9bd2e37c829b3",
+      "order": 2,
+      "status": 1,
+      "parentId": null,
+      "createdDate": "2024-12-10T02:59:38.251+0000",
+      "name": "Trật tự đô thị xã hội",
+      "description": null
+    },
+    {
+      "id": "6757af0bafbe3f09cec11e61",
+      "code": null,
+      "integratedCode": null,
+      "primaryColor": null,
+      "iconId": "6256867976b1cd2103bdf5a6",
+      "order": 3,
+      "status": 1,
+      "parentId": null,
+      "createdDate": "2024-12-10T03:01:31.753+0000",
+      "name": "Giao thông",
+      "description": null
+    },
+    {
+      "id": "6757af40afbe3f09cec11e67",
+      "code": null,
+      "integratedCode": null,
+      "primaryColor": null,
+      "iconId": "625688c776b1cd2103bdf5bc",
+      "order": 4,
+      "status": 1,
+      "parentId": null,
+      "createdDate": "2024-12-10T03:02:24.032+0000",
+      "name": "An ninh trật tự, an toàn xã hội",
+      "description": null
+    },
+    {
+      "id": "6757af74afbe3f09cec11e6a",
+      "code": null,
+      "integratedCode": null,
+      "primaryColor": null,
+      "iconId": "67a57bb279e9bd2e37c829a9",
+      "order": 5,
+      "status": 1,
+      "parentId": null,
+      "createdDate": "2024-12-10T03:03:16.985+0000",
+      "name": "Môi trường, khoáng sản và tài nguyên nước",
+      "description": null
+    }
+  ],
+  "pageable": {
+    "sort": {
+      "sorted": true,
+      "unsorted": false,
+      "empty": false
+    },
+    "offset": 0,
+    "pageNumber": 0,
+    "pageSize": 15,
+    "paged": true,
+    "unpaged": false
+  },
+  "last": true,
+  "totalPages": 1,
+  "totalElements": 5,
+  "size": 15,
+  "number": 0,
+  "sort": {
+    "sorted": true,
+    "unsorted": false,
+    "empty": false
+  },
+  "numberOfElements": 5,
+  "first": true,
+  "empty": false
+}
