@@ -85,6 +85,51 @@ select,
   overflow-x: hidden;
 }
 
+/* Segmented Tabs (style giống hình flight ticket) */
+.segmented-tabs {
+  display: flex;
+  gap: 8px;
+  padding: 6px;
+  border-radius: 16px;
+  background: #e9efff;
+  border: 1px solid #dbe3ff;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.6);
+}
+
+.segmented-tab {
+  flex: 1;
+  position: relative;
+  padding: 10px 12px;
+  border: none;
+  border-radius: 12px;
+  background: transparent;
+  color: #6b7280;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  outline: none;
+}
+
+.segmented-tab:hover {
+  color: #374151;
+}
+
+.segmented-tab.is-active {
+  color: #ffffff;
+  background: linear-gradient(135deg, #2563eb 0%, #3b82f6 100%);
+  box-shadow: 0 6px 18px rgba(59, 130, 246, 0.35);
+  transform: translateY(-1px);
+}
+
+.segmented-tab.is-active::after {
+  content: "";
+  position: absolute;
+  inset: -2px;
+  border-radius: 14px;
+  background: inherit;
+  z-index: -1;
+}
+
 /* Stack Filter Buttons */
 .stack-filter-container {
   padding: 12px 16px;
