@@ -5,10 +5,10 @@ import { searchWaterCustomers, type WaterCustomer, getWaterConsumptions, type Wa
 
 export function meta({ }: Route.MetaArgs) {
   return [
-    { title: "Tra cứu nước" },
+    { title: "Tra cứu hoá đơn nước" },
     {
       name: "description",
-      content: "Ứng dụng tra cứu nước: thông tin khách hàng và danh sách tiêu thụ",
+      content: "Ứng dụng tra cứu hoá đơn nước: thông tin khách hàng và danh sách tiêu thụ",
     },
     { name: "viewport", content: "width=device-width, initial-scale=1, viewport-fit=cover" },
   ];
@@ -108,7 +108,7 @@ export default function Home() {
 
   async function handleSearchBills() {
     if (!consIdkh.trim()) {
-      setConsError("Vui lòng nhập mã khách hàng (idkh)");
+      setConsError("Vui lòng nhập mã khách hàng");
       return;
     }
     setConsLoading(true);
